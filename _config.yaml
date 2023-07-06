@@ -4,6 +4,9 @@ subtitle:
 description: An engaging 1-3 sentence description of your lab.
 header: images/background.jpg
 footer: images/background.jpg
+domain: Khoan-IT.github.io
+url: https://Khoan-IT/github.io
+baseurl: /Khoan-IT.github.io/
 
 # site social media and other links
 links:
