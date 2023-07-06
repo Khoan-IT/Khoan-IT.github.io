@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: https://khoan-it/github.io/sitemap.xml
