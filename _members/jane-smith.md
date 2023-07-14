@@ -1,6 +1,6 @@
 ---
 name: Nicole Chiou
-image: images/photo.jpg
+image: images/nicole.png
 role: PhD Student
 aliases:
   - C.Nicole
