@@ -1,19 +1,16 @@
 ---
-name: Jane Smith
+name: Nicole Chiou
 image: images/photo.jpg
-role: pi
+role: PhD Student
 aliases:
-  - J. Smith
-  - J Smith
+  - C.Nicole
+  - C 
 links:
   home-page: https://janesmith.com
   orcid: 0000-0001-8713-9213
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+Nicole Chiou is a second-year Ph.D. student at Stanford, advised by Sanmi Koyejo. Her research interests span the areas of casual inference, machine learning, and applications in healthcare and neuroscience. Recently, her work has focused on adapting to distribution shifts using richly annotated datasets. In her free time, she enjoys obstacle course racing, running, and playing the piano.
+
+Nicole received her B.S. in Bioengineering (‘20) and M.S. in Robotics (‘21) from the University of Pennsylvania. She conducted her master’s thesis on the discrimination of cardiac arrhythmias in implantable devices using transfer learning with additional auxiliary labels, under the supervision of Rahul Mangharam (EE) and Eric Eaton (CS).
+
